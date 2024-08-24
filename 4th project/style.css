@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+#page1{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(139, 206, 244);
+}
+
+#page3{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(211, 153, 238);
+}
+#page2{
+    height: 100%;
+    width: 100%;
+    padding:5vw;
+    background-color: rgb(128, 237, 237);
+}
+#page2 h1{
+    font-size: 15vw;
+    text-transform: uppercase;
+    overflow-x: hidden;
+}
+#page1 h1{
+    font-size: 15vw;
+    text-transform: uppercase;
+    overflow-x: hidden;
+}
+#page3 h1{
+    font-size: 15vw;
+    text-transform: uppercase;
+    overflow-x: hidden;
+}
